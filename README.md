@@ -12,7 +12,8 @@
 - [4. Git amend)](#gitamend)
 - [5. Git revert)](#gitrevert)
 - [6. Git merge (regularly))](#gitmerge)
-- [7. git debase)](#gitdebase)
+- [7. Git debase)](#gitdebase)
+
 ===========================
 
 <a name="Modau"></a>
@@ -248,4 +249,4 @@ Như vậy bạn đã có thể trình bày github của mình một cách sáng
 <a name="gitmerge"></a>
 ### 6. Git merge (regularly)
 <a name="gitdebase"></a>
-### 7. git debase
+### 7. Git debase
