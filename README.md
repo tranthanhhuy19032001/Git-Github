@@ -204,8 +204,8 @@ Như vậy bạn đã có thể trình bày github của mình một cách sáng
 
 <a name="cacthaotacvoigitvagithub"></a>
 ## III. Các thao tác với Git và Github
-<a name="initalizeproject"></a>
-### 1. Initalize project
+<a name="initializeproject"></a>
+### 1. Initialize project
 <a name="gitbasic"></a>
 ### 2. Git basic (regularly)
 <a name="gitreset"></a>
