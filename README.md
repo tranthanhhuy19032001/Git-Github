@@ -6,7 +6,13 @@
 [II. Ngôn ngữ Markdown](#ngonngumarkdown)
 	
 [III. Các thao tác với git và github](#cacthaotacvoigitvagithub)
-
+- [1. Initialize project](#initializeproject)
+- [2. Git basic (regularly)](#gitbasic)
+- [3. Git reset)](#gitreset)
+- [4. Git amend)](#gitamend)
+- [5. Git revert)](#gitrevert)
+- [6. Git merge (regularly))](#gitmerge)
+- [7. git debase)](#gitdebase)
 ===========================
 
 <a name="Modau"></a>
@@ -198,8 +204,11 @@ Như vậy bạn đã có thể trình bày github của mình một cách sáng
 
 <a name="cacthaotacvoigitvagithub"></a>
 ## III. Các thao tác với Git và Github
+<a name="initalizeproject"></a>
 ### 1. Initalize project
+<a name="gitbasic"></a>
 ### 2. Git basic (regularly)
+<a name="gitreset"></a>
 ### 3. Git reset
  - 3.1. Git reset
       - Đầu tiên, sử dụng lệnh git reset để đặt HEAD của bạn về commit commit_id:
@@ -223,6 +232,8 @@ Như vậy bạn đã có thể trình bày github của mình một cách sáng
       ```
         git push origin your_branch
       ```
+
+<a name="gitamend"></a>
 ### 4. Git amend
   - 4.1. Giữ nguyên comment log của commit
     ```
@@ -232,6 +243,9 @@ Như vậy bạn đã có thể trình bày github của mình một cách sáng
     ```
       git commit --amend -m "A new comment"
     ```
+<a name="gitrevert"></a>
 ### 5. Git revert
+<a name="gitmerge"></a>
 ### 6. Git merge (regularly)
+<a name="gitdebase"></a>
 ### 7. git debase
