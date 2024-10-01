@@ -208,6 +208,23 @@ Như vậy bạn đã có thể trình bày github của mình một cách sáng
 <a name="initializeproject"></a>
 ### 1. Initialize project
 <a name="gitbasic"></a>
+
+- 1.1. Create a new repository on the command line
+```
+echo "# initialize_repository" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tranthanhhuy19032001/initialize_repository.git `change your reposioty url`
+git push -u origin main
+```
+- 1.2. OR push an existing repository from the command line
+```
+git remote add origin https://github.com/tranthanhhuy19032001/initialize_repository.git
+git branch -M main
+git push -u origin main
+```
 ### 2. Git basic (regularly)
 <a name="gitreset"></a>
 ### 3. Git reset
